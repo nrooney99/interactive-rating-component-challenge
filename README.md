@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://codesandbox.io/s/github/nrooney99/interactive-rating-component-challenge](https://your-solution-url.com)
-- Live Site URL: [https://interactiverating.vercel.app/](https://your-live-site-url.com)
+- Solution URL: [https://codesandbox.io/s/github/nrooney99/interactive-rating-component-challenge](https://codesandbox.io/s/github/nrooney99/interactive-rating-component-challenge)
+- Live Site URL: [https://interactiverating.vercel.app/](https://interactiverating.vercel.app/)
 
 ## My process
 
