@@ -12,8 +12,11 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
+![image](https://user-images.githubusercontent.com/84242801/166851815-a9524d01-b95b-47a5-a0fa-a2e6e134bb61.png)
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/84242801/166851823-36969586-c078-4a62-aaae-3583607558ff.png)
+
+![image](https://user-images.githubusercontent.com/84242801/166851825-218cee5e-9512-4d77-a448-b8d0dd99ab4b.png)
 
 ### Links
 
